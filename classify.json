@@ -1,0 +1,14 @@
+{
+    "Hardware":["拍摄","语音","录像","进行视频",4],
+    "Location":["位置",4],
+    "Network":["网络权限","网络连接信息","网络状态信息",3],
+    "Communication": ["手机号码","短信",1],
+    "App_acess": ["应用权限","浏览器",1],
+    "Device_configuration": ["系统设置",1],
+    "Log_acess":["系统日志",1],
+    "Storage": ["储存","存储",2],
+    "System_acess":["系统功能","root",1],
+    "routine":["签到","预订","预定",2],
+    "modify": ["同步设置",1],
+    "Other_read_actions":["同步","其他权限",1]
+    }
